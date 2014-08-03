@@ -1,0 +1,39 @@
+tic;[ TrustTPRG01, TrustFPRG01, TH ] = getTrustBasedAll( 0.1 );toc;display('Group 1 - 0.1');
+tic;[ TrustTPRG02, TrustFPRG02, TH ] = getTrustBasedAll( 0.2 );toc;display('Group 1 - 0.2');
+tic;[ TrustTPRG03, TrustFPRG03, TH ] = getTrustBasedAll( 0.3 );toc;display('Group 1 - 0.3');
+tic;[ TrustTPRG04, TrustFPRG04, TH ] = getTrustBasedAll( 0.4 );toc;display('Group 1 - 0.4');
+tic;[ TrustTPRG05, TrustFPRG05, TH ] = getTrustBasedAll( 0.5 );toc;display('Group 1 - 0.5');
+tic;[ TrustTPRG06, TrustFPRG06, TH ] = getTrustBasedAll( 0.6 );toc;display('Group 1 - 0.6');
+tic;[ TrustTPRG07, TrustFPRG07, TH ] = getTrustBasedAll( 0.7 );toc;display('Group 1 - 0.7');
+tic;[ TrustTPRG08, TrustFPRG08, TH ] = getTrustBasedAll( 0.8 );toc;display('Group 1 - 0.8');
+tic;[ TrustTPRG09, TrustFPRG09, TH ] = getTrustBasedAll( 0.9 );toc;display('Group 1 - 0.9');
+
+tic;[ TrustTPRG101, TrustFPRG101, TH ] = getTrustBasedG1( 0.1 );toc;display('Group 1 - 0.1');
+tic;[ TrustTPRG102, TrustFPRG102, TH ] = getTrustBasedG1( 0.2 );toc;display('Group 1 - 0.2');
+tic;[ TrustTPRG103, TrustFPRG103, TH ] = getTrustBasedG1( 0.3 );toc;display('Group 1 - 0.3');
+tic;[ TrustTPRG104, TrustFPRG104, TH ] = getTrustBasedG1( 0.4 );toc;display('Group 1 - 0.4');
+tic;[ TrustTPRG105, TrustFPRG105, TH ] = getTrustBasedG1( 0.5 );toc;display('Group 1 - 0.5');
+tic;[ TrustTPRG106, TrustFPRG106, TH ] = getTrustBasedG1( 0.6 );toc;display('Group 1 - 0.6');
+tic;[ TrustTPRG107, TrustFPRG107, TH ] = getTrustBasedG1( 0.7 );toc;display('Group 1 - 0.7');
+tic;[ TrustTPRG108, TrustFPRG108, TH ] = getTrustBasedG1( 0.8 );toc;display('Group 1 - 0.8');
+tic;[ TrustTPRG109, TrustFPRG109, TH ] = getTrustBasedG1( 0.9 );toc;display('Group 1 - 0.9');
+
+tic;[ TrustTPRG201, TrustFPRG201, TH ] = getTrustBasedG2( 0.1 );toc;display('Group 2 - 0.1');
+tic;[ TrustTPRG202, TrustFPRG202, TH ] = getTrustBasedG2( 0.2 );toc;display('Group 2 - 0.2');
+tic;[ TrustTPRG203, TrustFPRG203, TH ] = getTrustBasedG2( 0.3 );toc;display('Group 2 - 0.3');
+tic;[ TrustTPRG204, TrustFPRG204, TH ] = getTrustBasedG2( 0.4 );toc;display('Group 2 - 0.4');
+tic;[ TrustTPRG205, TrustFPRG205, TH ] = getTrustBasedG2( 0.5 );toc;display('Group 2 - 0.5');
+tic;[ TrustTPRG206, TrustFPRG206, TH ] = getTrustBasedG2( 0.6 );toc;display('Group 2 - 0.6');
+tic;[ TrustTPRG207, TrustFPRG207, TH ] = getTrustBasedG2( 0.7 );toc;display('Group 2 - 0.7');
+tic;[ TrustTPRG208, TrustFPRG208, TH ] = getTrustBasedG2( 0.8 );toc;display('Group 2 - 0.8');
+tic;[ TrustTPRG209, TrustFPRG209, TH ] = getTrustBasedG2( 0.9 );toc;display('Group 2 - 0.9');
+
+tic;[ TrustTPRG301, TrustFPRG301, TH ] = getTrustBasedG3( 0.1 );toc;display('Group 3 - 0.1');
+tic;[ TrustTPRG302, TrustFPRG302, TH ] = getTrustBasedG3( 0.2 );toc;display('Group 3 - 0.2');
+tic;[ TrustTPRG303, TrustFPRG303, TH ] = getTrustBasedG3( 0.3 );toc;display('Group 3 - 0.3');
+tic;[ TrustTPRG304, TrustFPRG304, TH ] = getTrustBasedG3( 0.4 );toc;display('Group 3 - 0.4');
+tic;[ TrustTPRG305, TrustFPRG305, TH ] = getTrustBasedG3( 0.5 );toc;display('Group 3 - 0.5');
+tic;[ TrustTPRG306, TrustFPRG306, TH ] = getTrustBasedG3( 0.6 );toc;display('Group 3 - 0.6');
+tic;[ TrustTPRG307, TrustFPRG307, TH ] = getTrustBasedG3( 0.7 );toc;display('Group 3 - 0.7');
+tic;[ TrustTPRG308, TrustFPRG308, TH ] = getTrustBasedG3( 0.8 );toc;display('Group 3 - 0.8');
+tic;[ TrustTPRG309, TrustFPRG309, TH ] = getTrustBasedG3( 0.9 );toc;display('Group 3 - 0.9');
