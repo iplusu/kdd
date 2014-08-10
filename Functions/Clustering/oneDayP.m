@@ -1,6 +1,6 @@
-function [unsIP, Gp] = oneDayP(idx)
+function [unsIP, Gp] = oneDayP(type, idx)
 % Load all the data
-load(['idetproject/data_may0' int2str(idx) '.mat']);
+load(sprintf('datasets/kdd1998%s%d.mat', type, idx));
 
 [sIP, dIP] = removeIP(sIP, dIP, 2439063451);
 [sIP, dIP] = removeIP(sIP, dIP, 2439063452);
